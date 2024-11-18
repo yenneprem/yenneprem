@@ -1,4 +1,4 @@
-Seest thou a man diligent in his business? he shall stand before kings
+Seest thou a man diligent in his work? he shall stand before kings
 
 <!---
 yenneprem/yenneprem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
