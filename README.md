@@ -1,4 +1,4 @@
-Seest thou a man diligent in his work? he shall stand before kings.
+<!--- Seest thou a man diligent in his work? he shall stand before kings.--->
 
 $${\color{red}Seest \space thou \space a \space man \space diligent \space in \space his \space work? \space \color{lightblue}- \space \color{orange}he \space shall \space stand \space before \space kings.}$$
 
